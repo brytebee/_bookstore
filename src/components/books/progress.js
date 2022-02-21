@@ -14,7 +14,10 @@ const Bookprogress = ({ progress }) => (
         className="circle"
       />
       <div className="black prog-percent">
-        <p className="big">{progress}%</p>
+        <p className="big">
+          {progress}
+          %
+        </p>
         <p className="grey tiny">Completed</p>
       </div>
     </span>
