@@ -6,7 +6,8 @@ This project is used to display a list of books. Users can add/remove books from
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/27709832/145400205-9ae8e0a2-5f45-4073-b67b-3266777873a7.png)
+![image](https://user-images.githubusercontent.com/27709832/158596891-26a5f175-b4e1-4963-82c5-9e12f4da263c.png)
+
 `Current screenshot`
 
 ## Live Demo
